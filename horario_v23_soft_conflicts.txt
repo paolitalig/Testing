@@ -1,0 +1,10 @@
+﻿Mostrar conflictos leves de horario_v23.fet
+Generado con FET 7.0.0 el 6/2/25 12:45
+
+Número de restricciones leves incumplidas: 0
+Total de conflictos leves: 0
+
+Lista de conflictos leves en orden decreciente:
+
+
+Fin de archivo.
