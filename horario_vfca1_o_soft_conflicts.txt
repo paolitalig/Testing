@@ -1,0 +1,13 @@
+﻿Mostrar conflictos leves de horario_vfca1_o.fet
+Generado con FET 7.0.1 el 12/2/25 16:21
+
+Número de restricciones leves incumplidas: 3
+Total de conflictos leves: 1.5
+
+Lista de conflictos leves en orden decreciente:
+
+Restricción de lugar, aula preferida para la actividad, incorrecta para la actividad con id 222, (    4/7 - UACA NN-00002 - ANATOMIA ANIMAL II - SEGUNDO C_MV). Esto incrementa el total de conflictos en un 0.5
+Restricción de lugar, aula preferida para la actividad, incorrecta para la actividad con id 283, (    3/7 - UACA NN-00002 - ANATOMIA ANIMAL II - SEGUNDO C_MV). Esto incrementa el total de conflictos en un 0.5
+Restricción de lugar, aula preferida para la actividad, incorrecta para la actividad con id 284, (    3/7 - UACA NN-00002 - ANATOMIA ANIMAL II - SEGUNDO B_MV). Esto incrementa el total de conflictos en un 0.5
+
+Fin de archivo.
